@@ -13,14 +13,14 @@
 
 - Login/ Logout
 - Single Chat
-- - TCP
+  - TCP
   - UDP
 - Group Chat
-- - TCP only, with the Client-Server Framework
+  - TCP only, with the Client-Server Framework
 - Group File Distribution
-- - P2P network
+  - P2P network
 - Audio
-- - using [project](https://github.com/GrPe/AudioChat/tree/master/EnvyAudioChaten)
+  - using [project](https://github.com/GrPe/AudioChat/tree/master/EnvyAudioChaten)
 
 # Run
 - with Visual Studio, you can simply run with debug or release.
