@@ -24,7 +24,7 @@
 
 # Run
 - with Visual Studio, you can simply run with debug or release.
-- without Visual Studio, you can run the kkchat.exe file uploaded.
+- without Visual Studio, you can contact me to find the test .exe file.
 
 # Note
 This project only works in Windows and in the local network.
