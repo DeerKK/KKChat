@@ -14,7 +14,7 @@
 - Login/ Logout
 - Single Chat
 - - TCP
-- - UDP
+  - UDP
 - Group Chat
 - - TCP only, with the Client-Server Framework
 - Group File Distribution
