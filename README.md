@@ -20,7 +20,7 @@
 - Group File Distribution
   - P2P network
 - Audio
-  - using [project](https://github.com/GrPe/AudioChat/tree/master/EnvyAudioChaten)
+  - using this [project](https://github.com/GrPe/AudioChat/tree/master/EnvyAudioChaten)
 
 # Run
 - with Visual Studio, you can simply run with debug or release.
