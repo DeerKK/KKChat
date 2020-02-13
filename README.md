@@ -1,6 +1,6 @@
 # KKChat
- This is a project of Computer Networking
- 
+ This is a project of Computer Networking. Design of this project refers to QQ and Skype, especially in GUI and chatting functions.
+
 # Environment
 
 - Windows 10
